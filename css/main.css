@@ -30,7 +30,7 @@ main div.dfn {
   background-color: #b58900;
 }
 
-p+ strong {
+p + strong {
   color: #fff;
 }
 
@@ -45,6 +45,7 @@ h2 {
 a[rel=external] {
   background-color: #2694d8;
 }
+
 ol li:first-child {
   color: #719e47;
 }
@@ -60,6 +61,7 @@ ol li:last-child {
 .types li:nth-child(even) {
   background-color: #586e75;
 }
+
 .types li:nth-child(3n) {
-  background-color: #d04b16;;
+  background-color: #d04b16;
 }
