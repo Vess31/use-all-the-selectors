@@ -17,5 +17,16 @@ h1 {
 main {
   background-color: #eee8d5;
 }
+main div.dfn{
+  background-color: #b58900;
 
-h2
+}
+main div.dfn strong {
+  color: #fff
+}
+main div.dfn  p strong {
+  color: #000
+}
+h2 {
+  color: #93a1a1;
+}
