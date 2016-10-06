@@ -9,6 +9,7 @@ html mark {
 header {
   font-size: 1.5rem;
 }
+
 footer {
   font-size: 1.5rem;
 }
@@ -27,14 +28,16 @@ main {
 
 main div.dfn {
   background-color: #b58900;
+}
 
-}
 main div.dfn strong {
-  color: #fff
+  color: #fff;
 }
+
 main div.dfn  p strong {
-  color: #000
+  color: #000;
 }
+
 h2 {
   color: #93a1a1;
 }
